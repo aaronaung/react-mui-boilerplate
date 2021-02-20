@@ -4,6 +4,7 @@
 - Dashboard like UI with Material UI Drawer
 - Theme setup with Material UI Theme Provider
 - Router with react-router-dom
+- SWR installed https://swr.vercel.app/getting-started
 
 # Getting Started with Create React App
 
