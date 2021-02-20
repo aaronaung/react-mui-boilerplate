@@ -1,3 +1,10 @@
+# What's been setup with this boilerplate?
+
+- Notification with Material UI Snackbar
+- Dashboard like UI with Material UI Drawer
+- Theme setup with Material UI Theme Provider
+- Router with react-router-dom
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
